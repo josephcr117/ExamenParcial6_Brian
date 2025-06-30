@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Brian\\source\\repos\\ToDoApi\\ToDoApi\\ToDoApi.csproj": {}
+    "C:\\Users\\Brian\\source\\repos\\ExamenParcial6_Brian\\ToDoApi\\ToDoApi - backend\\ToDoApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Brian\\source\\repos\\ToDoApi\\ToDoApi\\ToDoApi.csproj": {
+    "C:\\Users\\Brian\\source\\repos\\ExamenParcial6_Brian\\ToDoApi\\ToDoApi - backend\\ToDoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Brian\\source\\repos\\ToDoApi\\ToDoApi\\ToDoApi.csproj",
+        "projectUniqueName": "C:\\Users\\Brian\\source\\repos\\ExamenParcial6_Brian\\ToDoApi\\ToDoApi - backend\\ToDoApi.csproj",
         "projectName": "ToDoApi",
-        "projectPath": "C:\\Users\\Brian\\source\\repos\\ToDoApi\\ToDoApi\\ToDoApi.csproj",
+        "projectPath": "C:\\Users\\Brian\\source\\repos\\ExamenParcial6_Brian\\ToDoApi\\ToDoApi - backend\\ToDoApi.csproj",
         "packagesPath": "C:\\Users\\Brian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Brian\\source\\repos\\ToDoApi\\ToDoApi\\obj\\",
+        "outputPath": "C:\\Users\\Brian\\source\\repos\\ExamenParcial6_Brian\\ToDoApi\\ToDoApi - backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
